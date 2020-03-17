@@ -1,5 +1,5 @@
 # assignment
-This is the simple variational autoencoder on mnist data. The jupyter notebook has been created using the Google colab. Just click on the toggle "view in colab". 
+This is the simple variational autoencoder on mnist data. The jupyter notebook has been created using the Google colab. Just click on the toggle "view in colab". Run each cell by shift+enter.
 # references :-
 
 1.  https://jaan.io/what-is-variational-autoencoder-vae-tutorial/
